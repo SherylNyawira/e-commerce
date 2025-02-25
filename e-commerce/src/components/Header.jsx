@@ -7,7 +7,7 @@ const Header = () => {
     <AppBar position="static">
       <Toolbar>
         <Typography variant="h6" style={{ flexGrow: 1 }}>
-          E-Commerce Store
+          Learning E-Commerce Store
         </Typography>
         <Button color="inherit">Home</Button>
         <Button color="inherit">Products</Button>
