@@ -4,7 +4,7 @@ import ProductCard from '../components/ProductCard';
 import { Container, Grid, Typography } from '@mui/material';
 
 const Home = () => {
-  const featuredProducts = [
+  const featuredProduct = [
     { id: 1, name: 'Product 1', price: 100, image: 'https://via.placeholder.com/150' },
     { id: 2, name: 'Product 2', price: 200, image: 'https://via.placeholder.com/150' },
   ];
